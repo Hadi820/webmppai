@@ -1,0 +1,15 @@
+# Vercel ignore file
+node_modules
+.env.local
+.env
+*.log
+.DS_Store
+.vscode
+.idea
+
+# Documentation (optional, remove if you want docs in deployment)
+SUPABASE_SETUP.md
+MIGRATION_GUIDE.md
+CHANGELOG.md
+REFACTORING_SUMMARY.md
+QUICK_START.md

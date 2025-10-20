@@ -1,0 +1,5 @@
+{
+  "name": "MPP Pandeglang Service Finder",
+  "description": "An interactive web application to help citizens of Pandeglang Regency find information about requirements, processes, and details for all public services available at the Mal Pelayanan Publik (MPP).",
+  "requestFramePermissions": []
+}
